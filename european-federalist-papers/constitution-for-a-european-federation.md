@@ -4,18 +4,18 @@ We, the Citizens of Austria, Belgium, Cyprus, Germany, Estonia, Finland, France,
 
 # Article I – The Federation and the Bill of Rights
 
-1. The European Federation is formed by the Citizens and the States, participating in the Federation.
-2. The powers not delegated to the European Federation by the Constitution, nor prohibited to the States by this Constitution, are reserved to the Citizens or to the respective States.
-3. The European Federation endorses the rights, freedoms and principles as written in the Charter of the Fundamental Rights of the European Union, excluding the principle of subsidiarity, as mentioned in the Preamble of this Charter. The European Federation accedes to the European Convention on Human Rights and Fundamental Freedoms.
+1. The European Union is formed by the Citizens and the States, participating in the Federation.
+2. The powers not delegated to the European Union by the Constitution, nor prohibited to the States by this Constitution, are reserved to the Citizens or to the respective States.
+3. The European Union endorses the rights, freedoms and principles as written in the Charter of the Fundamental Rights of the European Union, excluding the principle of subsidiarity, as mentioned in the Preamble of this Charter.
  
 # Article II – Organization of the Legislative Branch
 
-## Section 1 - Setting the European Congress
+## Section 1 - Setting up European Parliament
 
-1. The Legislative Branch of the European Federation rests with the European Congress. It consists of two Houses: the House of the Citizens and the House of the States, under the name Senate.
-2. The European Congress and its two separate Houses have their residence in Brussels.
+1. The Legislative Branch of the European Federation rests with the European Parliament. It consists of two Houses: the Delegation and Senate.
+2. The European Parliament and its two separate Houses have their residence in Brussels.
 
-## Section 2 – The House of the Citizens
+## Section 2 – The Delegation
 
 1. The House of the Citizens is composed of the representatives of the Citizens of the European Federation. Each member of the House has one vote. The members of this House are elected for a term of six years by the Citizens of the Federation qualified to vote, united in one constituency. The election of the members of the House of the Citizens takes place each time in the month May, and for the first time in the year 20XX. They enter office at the latest on June 1st of the election year. The members resign on the third day of the month May in the final year of their term. They can be re-elected twice in succession.
 2. Eligible are those who have reached the age of thirty years and are registered as Citizen of a State of the Federation during at least seven years.
@@ -99,9 +99,9 @@ The European Congress has the power:
 
 # Article IV – Organization of the Executive Branch
 
-## Section 1 - Establishing the offices of the President and the Vice President
+## Section 1 - Establishing the offices of the Chancellor and the Vice-Chancellor
 
-1. The executive power is vested in the President of the European Federation. He/she is in office for a term of four years, together with the Vice President who shall also be in office for a term of four years. The President and the Vice President are elected as a duo by the Citizens of the European Federation, which has to that goal one constituency. They are re-electable – forthwith – for one term.
+1. Federal executive power is vested in the Chancellor of the European Union. They are in office for a term of four years, together with the Vice-Chancellor who shall also be in office for a term of four years. Both are elected as a duo by the Citizens of the European Union, which has to that goal one constituency. No person shall serve more than two terms as Chancellor.
 2. The election of the President and the Vice President of the European Federation will be held on the third Friday in the month of October; the first election in the year 2016. To bridge the period between ratification of the Constitution of the European Federation and the first election of its President and Vice President the European Congress appoints from its midst an acting President. This acting President is not electable as President, nor as Vice President, at the first Presidential election of the European Federation.
 3. Electable for President or Vice President is any person who, at the moment of his candidacy, to be set by federal law, has reached the age of thirty five years, who has the nationality of one of the States of the European Federation and who has been registered as a Citizen of one of the States of the Federation for at least fifteen years.
 4. The President receives a salary for this position, set by the European Congress. The salary shall not be increased nor decreased during the term of his/her presidency, and he/she does not receive any other compensation or in kind from the European Federation, nor from any individual State of the Federation, nor from any other public institution within or outside of the Federation, nor from a private institution or person.
