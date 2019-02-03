@@ -1,0 +1,3 @@
+# THE NEW DRAFT TREATY FOR THE CONSTITUTION OF THE EUROPEAN UNION
+This draft Treaty for the Constitution of the European Union was prepared by Peter Jambrek to encourage discussion at the International Conference on the Constitutional Process for the European Union, held by the European Faculty of Law, Ljubljana (Slovenia), April 18th and 19th, 2016. Comments and critiques are welcome.
+- Nova Gorica and Ljubljana, March 2016.
